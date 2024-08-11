@@ -1,0 +1,430 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.18): 1723328150645 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328165743 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328168807 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328183894 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328186954 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328202055 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328205120 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328220218 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328223278 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328238383 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328253483 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328256549 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328271637 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328286738 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328289797 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+name-coordinator.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328304886 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328307949 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328323040 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328338132 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328341197 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328356284 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328359347 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328374434 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328389537 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328392594 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328407704 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328422810 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328437920 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328440984 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328456075 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328471167 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328474228 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328489316 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328492380 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328507471 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328510537 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328525639 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328528702 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328543794 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328546854 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328561953 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328565010 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328580100 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328595187 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328598254 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328613352 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328616411 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328631499 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328634558 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328649656 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328652715 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.18): 1723328667804 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.18): 1723328670862 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+happy-chances.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
